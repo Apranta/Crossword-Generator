@@ -1,0 +1,69 @@
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\bin\Debug\SkripsiV2.exe.config
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\bin\Debug\SkripsiV2.exe
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\bin\Debug\SkripsiV2.pdb
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.csprojResolveAssemblyReference.cache
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.Form1.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.Properties.Resources.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.csproj.GenerateResource.Cache
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.exe
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.pdb
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\obj\Debug\SkripsiV2.home.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SkripsiV2\SkripsiV2\bin\Debug\soal.txt
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\bin\Debug\soal.txt
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\bin\Debug\SkripsiV2.exe.config
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\bin\Debug\SkripsiV2.exe
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\bin\Debug\SkripsiV2.pdb
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.csprojResolveAssemblyReference.cache
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.Form1.resources
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.Home.resources
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.Properties.Resources.resources
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.csproj.GenerateResource.Cache
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.exe
+C:\Users\acer\Downloads\skripsweetV2-master\SkripsiV2\obj\Debug\SkripsiV2.pdb
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\bin\Debug\soal.txt
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe.config
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\bin\Debug\SkripsiV2.pdb
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.csprojResolveAssemblyReference.cache
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.Form1.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.Home.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.Properties.Resources.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.csproj.GenerateResource.Cache
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.exe
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\FIX\SkripsiV2\obj\Debug\SkripsiV2.pdb
+E:\FIX\SkripsiV2\bin\Debug\soal.txt
+E:\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe.config
+E:\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe
+E:\FIX\SkripsiV2\bin\Debug\SkripsiV2.pdb
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.csprojResolveAssemblyReference.cache
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.Form1.resources
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.Home.resources
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.Properties.Resources.resources
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.csproj.GenerateResource.Cache
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.exe
+E:\FIX\SkripsiV2\obj\Debug\SkripsiV2.pdb
+R:\FIX\SkripsiV2\bin\Debug\soal.txt
+R:\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe.config
+R:\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe
+R:\FIX\SkripsiV2\bin\Debug\SkripsiV2.pdb
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.csprojAssemblyReference.cache
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.Form1.resources
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.Home.resources
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.Properties.Resources.resources
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.csproj.GenerateResource.cache
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.csproj.CoreCompileInputs.cache
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.exe
+R:\FIX\SkripsiV2\obj\Debug\SkripsiV2.pdb
+C:\Users\rezia\Documents\FIX\SkripsiV2\bin\Debug\soal.txt
+C:\Users\rezia\Documents\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe.config
+C:\Users\rezia\Documents\FIX\SkripsiV2\bin\Debug\SkripsiV2.exe
+C:\Users\rezia\Documents\FIX\SkripsiV2\bin\Debug\SkripsiV2.pdb
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.csprojAssemblyReference.cache
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.Form1.resources
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.Home.resources
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.Properties.Resources.resources
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.csproj.GenerateResource.cache
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.csproj.CoreCompileInputs.cache
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.exe
+C:\Users\rezia\Documents\FIX\SkripsiV2\obj\Debug\SkripsiV2.pdb
